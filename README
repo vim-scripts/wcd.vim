@@ -1,0 +1,9 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=191
+
+wcd.vim plugin adds the :Wcd command, which allows to quickly
+access any directory - same way as with wcd under the shell.
+wcd.vim requires wcd.exe to be installed on your system.
+
+For more information on wcd, see:
+  http://www.xs4all.nl/~waterlan/
+
